@@ -53,7 +53,7 @@ This project can be effectively used in various real-world applications:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/cryptic-technomage/number-plate-recognition.git
+git clone https://github.com/cryptic-technomage/Number-plate-recognition.git
 cd number-plate-recognition
 ```
 
