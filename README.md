@@ -55,7 +55,7 @@ This project can be effectively used in various real-world applications:
 ```bash
 git clone https://github.com/cryptic-technomage/number-plate-recognition.git
 cd number-plate-recognition
-
+```
 
 ## Conclusion
 
